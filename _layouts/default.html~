@@ -5,6 +5,8 @@
 　　<title>{{ page.title }}</title>
 </head>
 <body>
-　　{{ content }}
+	<div alignment="center">
+	　　{{ content }}
+	</div>
 </body>
 </html>
