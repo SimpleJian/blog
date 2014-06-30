@@ -1,0 +1,13 @@
+---
+layout: default
+title: 关于相似性度量的思考
+tags: machine learning
+---
+
+{{ page.title }}
+================
+
+今天下午听了于剑老师关于聚类的讲座，收获颇多。
+
+{{ page.date | date_to_string}}
+
