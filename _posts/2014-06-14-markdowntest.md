@@ -18,7 +18,7 @@ $$
 $$
 
 ## 代码高亮测试
-{# highlight python #}
+{% highlight python %}
 def somefunc(param1='', param2=0):
     '''A docstring'''
     if param1 > param2: # interesting
@@ -30,5 +30,5 @@ class SomeClass:
 
 >>> message = '''interpreter
 ... prompt'''
-{# endhighlight #}
+{% endhighlight %}
 
