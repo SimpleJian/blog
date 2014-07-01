@@ -8,10 +8,12 @@ tags: test
 
 
 ##Latex数学公式测试
+<div>
 $$
-x^2=1  
+x^2=1
 e^{i\pi}+1 = 0
 $$
+</div>
 
 ssh
 
