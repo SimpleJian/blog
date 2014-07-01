@@ -17,8 +17,8 @@ $$ \sqrt{\frac{1+\sqrt{5}}{2}+2}-\frac{1+\sqrt{5}}{2} = \frac{e^{-\frac{2\pi}{5}
 
 $$
 \begin{aligned}
-\dot{x} & = \sigma(y-x) \\\\
-\dot{y} & = \rho x - y - xz \\\\
+\dot{x} & = \sigma(y-x) \\
+\dot{y} & = \rho x - y - xz \\
 \dot{z} & = -\beta z + xy
 \end{aligned}
 $$
