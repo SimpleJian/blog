@@ -8,9 +8,10 @@ tags: test
 
 
 ##Latex数学公式测试
-\begin{equation}
+\begin{eqnarray}
 e^{i\pi}+1 = 0
-\end{equation}
+E = mc^2
+\end{eqnarray}
 
 ……
 
