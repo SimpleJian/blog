@@ -4,15 +4,14 @@ title: markdown测试
 tags: test
 ---
 
-{{ page.title }}
-================
+#{{ page.title }}
 
 
-Latex数学公式测试
-----------------
+##Latex数学公式测试
 $$
 x^2=1
-x^3 = 1
+
+e^{i\pi}+1 = 0
 $$
 
 ssh
