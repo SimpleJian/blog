@@ -1,3 +1,3 @@
 baseurl: /blog
-markdown: kramdown
+markdown: maruku
 pygments: true
