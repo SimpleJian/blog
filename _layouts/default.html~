@@ -10,7 +10,7 @@
 
 <div class="site">
   <div class="title">
-    <a href="/">0.618's world</a>
+    <a href="{{site.baseurl}}">0.618's world</a>
   </div>
   
   {{ content }}
@@ -18,7 +18,7 @@
   <div class="footer">
     <div class="contact">
       <p>
-        <a href="http://github.com/hueidou/">github.com/lingdian618</a>
+        <a href="http://github.com/lingdian618/">github.com/lingdian618</a>
       </p>
     </div>
   </div>
