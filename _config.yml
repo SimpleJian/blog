@@ -1,4 +1,3 @@
 baseurl: /blog
-markdown: redcarpet
+markdown: rdiscount
 pygments: true
-extensions: [fenced_code_blocks]

@@ -1,5 +1,4 @@
 baseurl: /blog
-markdown: kramdown
+markdown: redcarpet
 pygments: true
-redcarpet:
-    extensions: ["fenced_code_blocks", "autolink", "tables", "strikethrough"]
+extensions: [fenced_code_blocks]
