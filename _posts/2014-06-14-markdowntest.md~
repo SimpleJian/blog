@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: markdown测试
 tags: test
 ---
