@@ -1,12 +1,12 @@
 ---
 layout: default
-title: markdown测试
+title: markdown娴嬭瘯
 tags: test
 ---
 
 # {{ page.title }}
 
-## 数学公式测试
+## 鏁板鍏紡娴嬭瘯
 
 $$
 \begin{aligned}
@@ -17,7 +17,7 @@ $$
 \end{aligned}
 $$
 
-## 代码语法高亮测试
+## 浠ｇ爜楂樹寒娴嬭瘯
 
 {% highlight c++ %}
 #include <stdio.h>
