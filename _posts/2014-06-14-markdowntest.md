@@ -6,8 +6,6 @@ tags: test
 
 # {{ page.title }}
 
-## 数学公式测试
-
 $$
 \begin{aligned}
 &  E = mc^2 \\
@@ -17,7 +15,6 @@ $$
 \end{aligned}
 $$
 
-## 代码高亮测试
 
 {% highlight c++ %}
 #include <stdio.h>

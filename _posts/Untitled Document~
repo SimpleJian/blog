@@ -1,11 +1,13 @@
 ---
 layout: post
-title: markdown����
+title: markdown测试
 tags: test
 ---
 
 # {{ page.title }}
 
+
+## 数学公式测试
 $$
 \begin{aligned}
 &  E = mc^2 \\
