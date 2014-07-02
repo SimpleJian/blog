@@ -18,11 +18,16 @@ $$
 $$
 
 ## 代码高亮测试
+
 {% highlight c++ %}
+#include <stdio.h>
 int main()
 {
 	printf("Hello, world! ");
 	return 0;
 }
 {% endhighlight %}
+
+
+{{ page.date | date_to_string}}
 
