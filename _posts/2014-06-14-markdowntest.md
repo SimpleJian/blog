@@ -1,10 +1,12 @@
 ---
 layout: post
-title: markdown
+title: 测试页面
 tags: test
 ---
 
 # {{ page.title }}
+
+## 数学公式测试
 
 $$
 \begin{aligned}
@@ -15,6 +17,7 @@ $$
 \end{aligned}
 $$
 
+## 代码语法高亮测试
 
 {% highlight c++ %}
 #include <stdio.h>
