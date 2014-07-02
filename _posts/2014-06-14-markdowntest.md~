@@ -1,6 +1,6 @@
 ---
 layout: post
-title: markdown测试
+title: markdown
 tags: test
 ---
 
