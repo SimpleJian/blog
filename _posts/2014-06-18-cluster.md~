@@ -14,7 +14,18 @@ tags: machine learning, summary, lecture
 
 ## 为何要聚类
 
+聚类能干什么呢？下面是于剑老师ppt上列出来的几点：
 
+- When studying complex network, people hopes to find the community
+with intrinsic relations（发现复杂网络中的社群结构）
+- In image analysis,people hopes to segment an image into
+homogeneous regions（将图像分割成同质区域）
+- In text processing, people hopes to find document subsets with the
+same topic（发现相同主题的文档）
+- In lossy coding,people hopes to find an code with minimum
+information loss（在有损编码中，寻找信息丢失最少的编码方式）
+- In customer behavior analysis, people hopes to find homogeneous
+customer groups in order to efficiently make an advertisement（对用户分层，从而更有效地打广告）
 
 ## 如何聚类
 
