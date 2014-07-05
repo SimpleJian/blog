@@ -1,0 +1,11 @@
+---
+layout: post
+title: 对KKT条件的理解
+tags: Numerical Optimization, Nonlinear Optimization, math
+---
+
+# {{ page.title }}
+
+## 带约束的数值优化问题
+
+数值优化问题是在有限维实空间上求单值函数的极值。函数的自变量可能受
