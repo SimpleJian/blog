@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 对KKT条件的理解
-tags: Numerical Optimization, Nonlinear Optimization, math
+tags: Numerical Optimization, Nonlinear Optimization, KKT
 ---
 
 # {{ page.title }}
@@ -10,10 +10,27 @@ tags: Numerical Optimization, Nonlinear Optimization, math
 
 数值优化问题是在有限维实空间上求单值函数的极值。函数的自变量可能受限制于有限个等式或不等式约束。数值优化问题通常可以写成
 
-	$$
-	\begin{aligned}
-	min f(x) \\
-	s.t. g_i(x)\leq0, h_j(x)\=0
-	\end{aligned}
-	$$
+$$
+\begin{aligned}
+min f(x) \\
+s.t. g_i(x)\leq0, h_j(x)=0
+\end{aligned}
+$$
+
+其中，f(x)是优化目标，x是变量，g(x)是不等式约束，h(x)是等式约束，通常来说，所有的优化问题都可以转化为以上形式。
+
+## 无约束优化问题的一阶必要性条件
+
+$$
+\begin{aligned}
+\bigtriangledown
+\end{aligned}
+$$
+
+
+## 只含等式约束的一阶必要性条件
+
+## 一般优化问题的一阶必要性条件--KKT条件
+
+
 
