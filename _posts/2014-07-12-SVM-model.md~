@@ -9,7 +9,7 @@ tag: SVM, classification, model
 针对任何分类问题，通过特征提取后，就能得到特征向量及对应的类别标签：
 
 $$
-\( {\vec x}_i, y_i \), \quad i=1,2,3 \cdot m
+( {\vec x}_i, y_i ), \quad i=1,2,3 \cdot m
 $$
 
 其中，$$ {\vec x}_i $$表示第i个样本的特征向量，$$ y_i $$表示第i个样本所属类别。
