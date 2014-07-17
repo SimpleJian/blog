@@ -1,0 +1,15 @@
+---
+layout: post
+title: git 命令总结
+tag: git, summary
+---
+
+# {{ page.title }}
+
+- git remote -v
+
+- git remote add leetcode ssh://github.com/lingdian618/leetcode
+
+- git remote rm leetcode
+
+
