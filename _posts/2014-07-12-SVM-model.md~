@@ -19,7 +19,7 @@ $$
 样本点到超平面的距离为：
 
 $$
-\frac{}{}
+\frac{|\vec w \cdot \vec x + b|}{\Vert w \Vert}
 $$
 
 最优间隔分类器的优化目标为：
