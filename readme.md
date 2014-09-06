@@ -1,5 +1,5 @@
-# My blog at github
-[lijign](http://lingdian618.github.io/blog)
+### My blog at github
+[lijian](http://lingdian618.github.io/blog)
 
-# Reference:
+### Reference:
 [Tom Preston-werner](http://tom.preston-werner.com)
