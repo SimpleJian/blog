@@ -11,7 +11,7 @@ fi
 echo $cmd
 
 git add -A
-git commit -m $*
+git commit -m $cmd
 git pull origin gh-pages
 git push origin gh-pages
 
