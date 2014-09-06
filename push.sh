@@ -2,9 +2,9 @@
 
 if [ $# = 0 ];
 then
-	cmd="\"Just_another_push\""
+	cmd="Just_another_push"
 else
-	cmd=\"$*\"
+	cmd=$@
 fi
 
 echo $cmd
