@@ -8,8 +8,6 @@ else
 	cmd=$*
 fi
 
-echo $cmd
-
 git add -A
 git commit -m $cmd
 git pull origin gh-pages
