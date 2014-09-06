@@ -1,6 +1,5 @@
 # !/bin/bash
 
-cmd=''
 if [ $# = 0 ];
 then
 	cmd="Just another push"
@@ -9,7 +8,7 @@ else
 fi
 
 git add -A
-git commit -m $cmd
+git commit -m '$cmd'
 git pull origin gh-pages
 git push origin gh-pages
 
