@@ -8,8 +8,11 @@ tag: git, summary
 
 - git remote -v
 
-- git remote add leetcode ssh://github.com/lingdian618/leetcode
+- git remote add origin git@github.com:lingdian618/leetcode.git
 
-- git remote rm leetcode
+- git push origin master
+
+- git remote rm origin
+
 
 
