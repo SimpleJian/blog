@@ -1,8 +1,22 @@
+/* my own style */
+#nav {
+font:12px verdana, arial, sans-serif;
+}
+#nav, #nav li {
+list-style:none;
+padding:0;
+margin:0;
+}
+#nav li{
+float: left;
+}
+
 /*****************************************************************************/
 /*
 /* Common
 /*
 /*****************************************************************************/
+
 
 /* Global Reset */
 
