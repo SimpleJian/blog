@@ -54,15 +54,6 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%;
-  width:150px;
-  height:30px;
-  line-height:30px;
-  text-align:center;
-  background:#3A4953;
-  color:#fff;
-  text-decoration:none;
-  border-style: solid;
-  padding: 10px, 0, 0, 0;
 }
 
 h1 {
