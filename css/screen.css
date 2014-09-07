@@ -10,7 +10,21 @@ margin:0;
 #nav li{
 float: left;
 }
-
+#nav li a{
+display:block;
+width:150px;
+height:30px;
+line-height:30px;
+text-align:center;
+background:#3A4953;
+color:#fff;
+text-decoration:none;
+border-right:1px solid #000;
+}
+#nav li a:hover {
+background:#146C9C;
+color:#fff;
+}
 /*****************************************************************************/
 /*
 /* Common
