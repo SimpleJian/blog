@@ -49,7 +49,7 @@ body {
   font: 13.34px helvetica, arial, clean, sans-serif;
   *font-size: medium;
   text-align: center;
-  font-family: Arial, "宋体", "新宋体";
+  font-family: Helvetica, Tahoma, Arial, STXihei, "华文细黑", "Microsoft Yahei", "微软雅黑", Simsun, "宋体", Heiti, "黑体", sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
