@@ -1,0 +1,11 @@
+---
+layout: post
+title: some abbreviations
+tag: summary
+---
+
+# {{ page.title }}
+
+scp	security copy
+apt	advanced package tool
+tar	tape archive
